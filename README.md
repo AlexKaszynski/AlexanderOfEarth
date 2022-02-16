@@ -1,5 +1,5 @@
 # Introduction/ReadMe
-  Hi, my name is (Alex Kaszynski](https://github.com/AlexanderOfEarth)
+  Hi, my name is [Alex Kaszynski](https://github.com/AlexanderOfEarth)
   
   I'm a recent Colorado State University(CSU) graduate with a Bachelors in Computer Science. I'm interested computer Science because having been a fan of game development since early on in school, I wanted to learn more about the language behind it, and eventually got hooked on the problem-solving nature of Computer Science. I found that with my interest in art and design, I resonated more with front-end development, and UI design.
 
